@@ -55,7 +55,7 @@ If you'd like to explore or collaborate on the code, please contact:
 
 ## Author
 
-Jeet Patel
+Ravalji Maitryba Dharmendrasinh
 Final Year B.Tech CSE Student, Navrachana University  
 India  
 
